@@ -1,3 +1,5 @@
+World of Warcraft WOTLK (3.3.5a) fix for mouse jumpiness.
+
 The code was AI generated under strict guidance by myself.  
 
 I'm not a fan of vibe coding, but I do believe AI is a great tool to accelerate coding for people with some actual dev background.
